@@ -1,0 +1,4 @@
+how to add file to git
+1. git add file.txt
+2. git commit -m "here you can write something that what you do"
+

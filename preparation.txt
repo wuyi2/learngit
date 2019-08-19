@@ -1,0 +1,4 @@
+how to start git 
+git config --global user.email 874605322@qq.com
+git cinfig --global user.name wuyi
+
