@@ -1,0 +1,14 @@
+how to link github and git 
+first, using this order
+$ git remote add origin git@server-name:path/repo-name.git
+eg: git remote add origin git@github.com:wuyi2/learngit.git
+then
+if you are first use Git clone or push to link github , you will get a warning
+just press return , key yes and press return.
+after
+using this order to first push master
+$ git push -u origin master
+then 
+if you need , you can using 
+$ git push origin master
+to push new change  
